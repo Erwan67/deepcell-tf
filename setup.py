@@ -64,7 +64,7 @@ setup(
         'scikit-learn>=0.20.4',
         #'tensorflow~=2.9.0',
         'tensorflow_addons~=0.16.1',
-        'spektral~=1.0.4',
+        'spektral',
         'jupyter>=1.0.0,<2',
         'matplotlib',
         'opencv-python-headless<5',
