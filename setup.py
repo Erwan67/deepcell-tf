@@ -62,7 +62,7 @@ setup(
         'scipy>=1.2.3,<2',
         'scikit-image>=0.14.5,<0.20',
         'scikit-learn>=0.20.4',
-        'tensorflow~=2.8.0',
+        'tensorflow~=2.9.0',
         'tensorflow_addons~=0.16.1',
         'spektral~=1.0.4',
         'jupyter>=1.0.0,<2',
